@@ -1,0 +1,16 @@
+.flexCenter {
+    display: flex;
+    flex-direction: column;
+}
+
+.phoneFormat {
+    display: none;
+}
+
+.block {
+    display: block;
+}
+
+.invalid {
+    color: red;
+}
